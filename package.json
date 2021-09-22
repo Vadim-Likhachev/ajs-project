@@ -1,0 +1,22 @@
+{
+  "name": "ajs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-Likhachev/ajs-project.git"
+  },
+  "author": "Vadim Likhachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim-Likhachev/ajs-project/issues"
+  },
+  "homepage": "https://github.com/Vadim-Likhachev/ajs-project#readme",
+  "dependencies": {
+    "@vadim-likhachev/ajs": "^1.0.0"
+  }
+}
